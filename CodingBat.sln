@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup-1", "Warmup-1\Warmup-1.csproj", "{498A0698-5022-4E66-999D-DCB0D49EE2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup-2", "Warmup-2\Warmup-2.csproj", "{4A131AF6-4BC4-429E-ACC0-AC1AE1CE9363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498A0698-5022-4E66-999D-DCB0D49EE2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498A0698-5022-4E66-999D-DCB0D49EE2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498A0698-5022-4E66-999D-DCB0D49EE2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498A0698-5022-4E66-999D-DCB0D49EE2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A131AF6-4BC4-429E-ACC0-AC1AE1CE9363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A131AF6-4BC4-429E-ACC0-AC1AE1CE9363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A131AF6-4BC4-429E-ACC0-AC1AE1CE9363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A131AF6-4BC4-429E-ACC0-AC1AE1CE9363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F63F33F-4583-4689-B050-F6235887BDDA}
+	EndGlobalSection
+EndGlobal

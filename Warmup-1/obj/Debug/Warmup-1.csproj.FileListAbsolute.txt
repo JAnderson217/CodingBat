@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\bin\Debug\Warmup-1.exe.config
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\bin\Debug\Warmup-1.exe
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\bin\Debug\Warmup-1.pdb
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\obj\Debug\Warmup-1.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\obj\Debug\Warmup-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\obj\Debug\Warmup-1.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\obj\Debug\Warmup-1.exe
+C:\Users\Jack\source\repos\CodingBat\Warmup-1\obj\Debug\Warmup-1.pdb
