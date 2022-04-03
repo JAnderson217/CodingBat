@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodingBat\Array-3\bin\Debug\Array-3.exe.config
+C:\Users\Jack\source\repos\CodingBat\Array-3\bin\Debug\Array-3.exe
+C:\Users\Jack\source\repos\CodingBat\Array-3\bin\Debug\Array-3.pdb
+C:\Users\Jack\source\repos\CodingBat\Array-3\obj\Debug\Array-3.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodingBat\Array-3\obj\Debug\Array-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodingBat\Array-3\obj\Debug\Array-3.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodingBat\Array-3\obj\Debug\Array-3.exe
+C:\Users\Jack\source\repos\CodingBat\Array-3\obj\Debug\Array-3.pdb
