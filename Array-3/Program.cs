@@ -20,6 +20,7 @@ namespace Array_3
             squareUp(4);
             Console.Write("seriesUp test with 5: ");
             seriesUp(5);
+            Console.WriteLine($"countClumps test with [1,2,2,3,4,4], [1,1,1,1,1]: {countClumps(new int[] { 1, 2, 2, 3, 4, 4 })}, {countClumps(new int[] {1,1,1,1,1})}");
             Console.ReadLine();
         }
 
@@ -148,6 +149,24 @@ namespace Array_3
             }
             Console.WriteLine();
             return nums;
+        }
+        public static int countClumps(int[] nums)
+        {
+            int count = 0;
+            for (int i=0; i<nums.Length-1; i++)
+            {
+                //if duplicate pair, then subtract 1 to account for addition
+                if (i >= 1 && nums[i-1] == nums[i] && nums[i] == nums[i+1])
+                {
+                    count--;
+                }
+                //add to count if matching pair
+                if (nums[i] == nums[i + 1])
+                {
+                    count++;
+                }
+            }
+            return count;
         }
     }
 }
