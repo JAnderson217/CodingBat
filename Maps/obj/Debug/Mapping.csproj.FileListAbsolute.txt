@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\CodingBat\Maps\bin\Debug\Maps.exe.config
+C:\Users\Jack\source\repos\CodingBat\Maps\bin\Debug\Maps.exe
+C:\Users\Jack\source\repos\CodingBat\Maps\bin\Debug\Maps.pdb
+C:\Users\Jack\source\repos\CodingBat\Maps\obj\Debug\Mapping.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\CodingBat\Maps\obj\Debug\Mapping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\CodingBat\Maps\obj\Debug\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\CodingBat\Maps\obj\Debug\Maps.exe
+C:\Users\Jack\source\repos\CodingBat\Maps\obj\Debug\Maps.pdb
